@@ -5,6 +5,5 @@ Meu foco principal é desenvolver ferramentas simples e funcionais que possam au
 Este repositório reúne experimentos, protótipos e projetos que refletem minha jornada como desenvolvedor iniciante. Ele é um espaço de testes, descobertas e também de crescimento pessoal, onde cada linha de código escrita contribui para o meu desenvolvimento como programador.
 
 ---
-
-### Meu companheiro pixelado  
+ 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyejNtZGNubzN0cXEwcXNmcnI0MGVyczhkdnoyNzB1b3hsMW83NHo1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/7Cr71vflxfGFO/giphy.gif" width="120">
